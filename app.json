@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "TeleUdahRusak"
+      "value": "UnrealPiggy"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -63,12 +63,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ZaenSupport",
+      "value": "bebas",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ZaenSupport",
+      "value": "bebas",
       "required": false
    } 
   },
