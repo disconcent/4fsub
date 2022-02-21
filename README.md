@@ -1,10 +1,10 @@
-# 🔆File.-Sharing🔆
-Repo buat bokep kontol
+# File.-Sharing
+Repo buat bokep 
 
 <img src="https://telegra.ph/file/b688e58dc41a577ec1616.jpg">
 
 
-### Setup Join 3 Ch ini ngentod
+### Setup Join 4 Ch ini 
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
@@ -13,7 +13,7 @@ Repo buat bokep kontol
 ##
 ### Installation
 #### Deploy on Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Destra1112/destrottiga"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/piggychaa/empat"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
@@ -23,8 +23,8 @@ Repo buat bokep kontol
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Zaen-ubot/File-Sharing
-cd File-Sharing
+git clone https://github.com/piggychaa/empat
+cd empat
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
