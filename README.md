@@ -1,7 +1,9 @@
 # File.-Sharing 4 Button
 
-
-<img src="https://telegra.ph/file/2917f8f281acb8de7d5a7.jpg">
+Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
+<p align="center">
+  <img src="https://telegra.ph/file/0be7f54e3cfb5234102c6.jpg">
+</p>
 
 
 ### Setup Join 4 Ch ini 
