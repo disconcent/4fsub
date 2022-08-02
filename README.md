@@ -25,8 +25,8 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/piggychaa/empat
-cd empat
+git clone https://github.com/supermanbot12/File-Sharing-4Button
+cd File-Sharing-4Button
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
